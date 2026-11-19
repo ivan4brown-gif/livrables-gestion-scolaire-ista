@@ -2,7 +2,7 @@
 
 Ingénierie des systèmes informatiques – TECHNOLAB-ISTA
 
-Magnim Ghislain Kobara et Daniel Diarra – Licence 3 Génie Logiciel
+Magnim Ghislain Kobara  – Licence 3 Génie Logiciel
 
 ## Livrables (fichiers PDF à ouvrir)
 

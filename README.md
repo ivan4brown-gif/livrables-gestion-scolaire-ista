@@ -12,6 +12,6 @@ Magnim Ghislain Kobara et Daniel Diarra – Licence 3 Génie Logiciel
 4.  **Livrable 4 :**
 5. **Livrable 5 :**
 6. **Livrable 6 :**
-7. **Livrable 6 :**
+7. **Livrable 7 :**
 
 > Les fichiers se trouvent dans la liste des fichiers de ce dépôt.

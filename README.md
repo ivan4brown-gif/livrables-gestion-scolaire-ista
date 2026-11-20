@@ -10,4 +10,4 @@ Magnim Ghislain Kobara et Daniel Diarra – Licence 3 Génie Logiciel
 2. **Livrable 2 : Cahier des charges V1** : fichier `Livrable2_Cahier_des_Charges_…pdf`
 3. **Livrable 3 :**                       :fichier `Livrable3_Cas_Utilisation_AsIs_ToBe_Gestion_Scolaire.pdf`
 
-Les trois fichiers se trouvent dans la liste des fichiers de ce dépôt.
+Les fichiers se trouvent dans la liste des fichiers de ce dépôt.
